@@ -44,7 +44,3 @@ Drag and drop the project folder to Netlify Drop
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
-
-## License
-
-MIT
